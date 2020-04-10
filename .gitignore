@@ -4,6 +4,3 @@ node_modules/
 # Production
 dist/
 public/js/app.js
-
-# Hidden vals
-.env
