@@ -30,7 +30,7 @@
     "helmet": "^3.22.0",
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "sass-loader": "^7.3.1",
